@@ -40,4 +40,4 @@ A interface utiliza conceitos de **Glassmorphism** e **Dark Mode**, com uma pale
 *Este é um projeto proprietário. O código-fonte está em um repositório privado por questões de segurança e propriedade intelectual. Esta página serve como portfólio e documentação das capacidades técnicas aplicadas.*
 
 ---
-Desenvolvido com ❤️ por [Seu Nome/Bruno]
+Desenvolvido com ❤️ por Bruno M.
