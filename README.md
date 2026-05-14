@@ -1,6 +1,6 @@
 # 💎 Moore Finance
 
-![Banner ou Screenshot Principal](./assets/print1.png)
+![Banner ou Screenshot Principal](./assets/banner.png)
 
 > Uma plataforma premium de gestão de fluxo de caixa pessoal, projetada para quem busca clareza financeira com uma interface state-of-the-art.
 
