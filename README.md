@@ -1,6 +1,6 @@
 # 💎 Moore Finance
 
-![Banner ou Screenshot Principal](https://via.placeholder.com/1200x600/111111/FFFFFF?text=Moore+Finance+Dashboard)
+![Banner ou Screenshot Principal](./assets/print1.png)
 
 > Uma plataforma premium de gestão de fluxo de caixa pessoal, projetada para quem busca clareza financeira com uma interface state-of-the-art.
 
